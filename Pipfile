@@ -10,6 +10,10 @@ jupyter = "*"
 boto3 = "*"
 pyzmq = "==19.0.2"
 pyarrow = "*"
+pyyaml = "*"
+pylint = "*"
+moto = "*"
+coverage = "*"
 
 [dev-packages]
 
