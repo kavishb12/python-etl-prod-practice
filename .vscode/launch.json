@@ -11,6 +11,16 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true
+        },
+        {
+            "name": "etl_run",
+            "type": "python",
+            "python.pythonPath": "C:/Users/Kavish Bhathija/.virtualenvs/python-etl-prod-practice-1T-3ETfR/Scripts/python.exe",
+            "request": "launch",
+            "program": "C:/Users/Kavish Bhathija/Desktop/Python/data-pipeline/python-etl-prod-practice/run.py",
+            "console": "integratedTerminal",
+            "args": ["C:/Users/Kavish Bhathija/Desktop/Python/data-pipeline/python-etl-prod-practice/configs/config.yml"]
+            "justMyCode": true
         }
     ]
 }
